@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+dist/
+__pycache__/
+*.pyc
+.env
+.env.local
+.DS_Store
+*.log
+.vercel
+data/*.png
+data/last_run.json
+.idea/
+.vscode/
